@@ -1,0 +1,18 @@
+{
+  "name": "archium-py-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "npx archium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archium-py": "^1.0.51"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "entry": "ts/index.ts"       
+    }
+}
